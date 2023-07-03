@@ -1,0 +1,7 @@
+main:
+  - title: "Quick-Start Guide"
+    url: /docs/quick-start-guide/
+  - title: "About Me"
+    url: /about/
+  - title: "Experience"
+    url: /experience/
