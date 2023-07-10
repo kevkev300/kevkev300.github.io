@@ -1,10 +1,9 @@
 ---
+title: Hi, I'm Kevin, welcome to my page!
 layout: single
 author_profile: true
 permalink: /
 ---
-
-# Hi, I'm Kevin, welcome to my page!
 
 ![Kevin](assets/images/Kevin.jpeg){:width="300px"}
 
