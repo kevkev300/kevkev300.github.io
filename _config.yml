@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kevin Liebholz"
   avatar           : "/assets/images/Kevin_Liebholz.png"
-  bio              : "Full-stack Developer. Creator. Strategist"
+  bio              : "Full-stack Developer. Creator. Strategist."
   location         : "Germany"
   email            :
   links:
@@ -134,7 +134,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/KevinLiebholz"
+      # url: "https://twitter.com/KevinLiebholz"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
