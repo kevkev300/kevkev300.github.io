@@ -1,7 +1,9 @@
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About Me"
     url: /about/
   - title: "Experience"
     url: /experience/
+  - title: "Education"
+    url: /education/
