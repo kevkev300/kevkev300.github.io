@@ -18,7 +18,7 @@ Topic: *Exploring the Power of Turbo Streams & ActionCable*
 
 ![Rails Conf](assets/images/rails_conf.jpg){:width="300px"}
 
-This was one of my greatest achievements so far. Speaking in front of around 350 developers about a very interesting topic. Hopefullt, the video comes out soon. Until then, here is the plot:
+This was one of my greatest achievements so far. Speaking in front of around 350 developers about a very interesting topic. Hopefully, the video comes out soon. Until then, here is the plot:
 
 *Dive into the world of Turbo Streams and ActionCable with the Dragon Rider Eragon and his majestic dragon, Saphira, as we build a real-time tic-tac-toe game. We will utilize Turbo Stream broadcasting and ActionCable customization to create the game for our heroes, adding constraints of rising difficulty one after the other. Are you an advanced coder? Or are you a beginner? As long as you are looking to explore new applications of Hotwire’s Turbo or simply learn about it, we’re a match!*
 
