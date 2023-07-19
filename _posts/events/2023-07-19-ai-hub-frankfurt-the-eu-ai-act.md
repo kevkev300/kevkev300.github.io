@@ -8,7 +8,7 @@ permalink: /:year/:month/:day/:title
 
 Today, I want to share my experience attending "The EU AI Act" event organized by AI Hub Frankfurt on July 18th, 2023. It was an insightful gathering that shed light on the upcoming regulatory landscape surrounding AI and its impact on businesses. In this post, I will provide you with a summary of the keynotes and discussions from the event.
 
-*This article was written with ChatGPT :robot: by providing my notes from the event and adapting the AIs answer. [See my original notes and my ChatGPT promopt below the article](#chatgpt-prompt).*
+*This article was written with ChatGPT :robot: by providing my notes from the event and adapting the AIs answer. [See my original notes and my ChatGPT prompt below the article](#chatgpt-prompt).*
 
 ## TL;DR
 - Attended "The EU AI Act" event organized by AI Hub Frankfurt.
