@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  Cheatsheet "Practical Object Oriented Design in Ruby"
-date:   2023-08-21
+date:   2023-09-26
 categories: books cheatsheets code
 permalink: /:year/:month/:day/:title
 ---
