@@ -1,5 +1,5 @@
 ## [portagon GmbH](https://www.portagon.com/){:target="_blank"}
-**Software Engineer** | 05/2020 – present<br/>
+**Software Engineer** | 05/2020 – 11/2023<br/>
 *Frankfurt, Germany*
 
 - Developing and conceptualizing new features, improving legacy software, Full-Stack, APIs, Dev Ops
