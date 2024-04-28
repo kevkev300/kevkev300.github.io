@@ -3,6 +3,6 @@ title: CV
 permalink: /cv/
 ---
 
-Feel free to download my CV here:
+Feel free to check out my CV here:
 
-[Download...](../assets/documents/Kevin_Liebholz_CV.pdf){:target="_blank"}
+[Link to Kevin's CV...](https://flowcv.com/resume/l7wgjnsnww){:target="_blank"}
