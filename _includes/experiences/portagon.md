@@ -1,16 +1,19 @@
 ## [portagon GmbH](https://www.portagon.com/){:target="_blank"}
-**Software Engineer** | 05/2020 – 11/2023<br/>
+**Software/Web Engineer** | 05/2020 – 11/2023<br/>
 *Frankfurt, Germany*
 
-- Developing and conceptualizing new features, improving legacy software, Full-Stack, APIs, Dev Ops
+- Developing and conceptualizing new features, improving legacy software, code reviews, Full-Stack, APIs, Dev Ops
 - Stack: Ruby, Ruby on Rails, Hotwire, Stimulus, ES6 Javascript, Haml, SCSS, Heroku, AWS, PostgreSQL, Sidekiq, Redis, REST APIs, Bootstrap
-- Lead developer for new products and integrations
-- refactoring the legacy app, including core features
-- reviewing code
-- interviewing potential new hires
-- Leading knowledge transfer & business-wide feature reviews
-- Part of voluntary motivation team (GOATs)
-- Appointed first aider and fire protection and evacuation assistant
+- Lead developer requirements engineering for new products/features and integrations
+- Stakeholder management
+- Taking part in job interviews
+- Created department onboarding concept
+- Onboarding mentor & mentoring junior staff
+- Introducing & leading knowledge transfer and business-wide feature reviews
+- Facilitating team retrospectives
+- Holding internal technical talks & feature presentations
+- Part of motivation team (GOATs)
+- First aider and fire protection and evacuation assistant
 
 portagon enables **efficient access to the private capital market** through an innovative technology that supports all types of investment transactions, complemented by a strong network of issuers, intermediaries, and investors.
 

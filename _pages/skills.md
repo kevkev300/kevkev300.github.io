@@ -5,9 +5,23 @@ permalink: /skills/
 
 Over the time, I gained knowledge in all kind of areas. Let me list some of the my skills here:
 
+- challenger, questions asker & team supporter with a focus on long-term outcomes
+- quick & enthusiastic practical learner
+- management
+- project management
+- stakeholder management
+- team leadership
+- teamwork
+- mentoring
+- process developent
+- presentations & talks
+- strategy
+- financing, controlling, pitching
+
 **Coding**
 - Ruby
 - Ruby on Rails
+- Hotwire
 - RSpec
 - Capybara
 - Cypres
@@ -17,6 +31,7 @@ Over the time, I gained knowledge in all kind of areas. Let me list some of the 
 - relational databases
 - SQL
 - PostgreSQL
+- MySQL
 - ES6 JavaScript
 - HTML
 - CSS
@@ -26,22 +41,13 @@ Over the time, I gained knowledge in all kind of areas. Let me list some of the 
 
 **Technical**
 - Heroku
+- AWS
 - Honeybadger
 - Git, Github
 - Github Actions
+- CI/CD pipeline setup & maintenance
 - Test Driven Development (TDD)
 - wireframing
 - prototyping
 - SCRUM / Kanban
-
-**Other**
-- quick learning & curiosity
-- UI Design
-- management
-- project management
-- team leadership
-- teamwork
-- communication
-- speaking
-- strategy
-- financing, controlling, pitching
+- concept development (in cooperation with stakeholders) & story/ticket writing
