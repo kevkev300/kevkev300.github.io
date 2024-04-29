@@ -7,7 +7,7 @@ permalink: /
 
 ![Kevin](assets/images/Kevin.jpeg){:width="300px"}
 
-I am dynamic Ruby on Rails developer transitioning into **tech leadership**, equipped with robust full-stack development skills and entrepreneurial experience. I am committed to integrating customer insights with strategic innovation to guide teams toward achieving a **sustainable tomorrow**. I am eager to **lead, inspire and coach teams** in roles that demand a blend of technical proficiency, strategic planning, and a commitment to sustainability.
+I am dynamic Ruby on Rails developer transitioning into **team leadership**, equipped with robust full-stack development skills and entrepreneurial experience. I am committed to integrating customer insights with strategic innovation to guide teams toward achieving excellence and a **sustainable tomorrow**. I am eager to **lead, inspire and coach teams** in roles that demand a blend of technical proficiency, team leadership, strategy, and a commitment to sustainability.
 
 My goal is to shape a better, more **sustainable** future by leveraging technology and a customer-centric approach. I thrive on supporting remarkable visions that make a positive impact.
 
