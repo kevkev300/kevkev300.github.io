@@ -11,7 +11,7 @@ main:
     url: /projects/
   - title: "Skills"
     url: /skills/
-  - title: "CV / Job Description"
+  - title: "CV"
     url: /cv/
   - title: Blog
     url: /blog/

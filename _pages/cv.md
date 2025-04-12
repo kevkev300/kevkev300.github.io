@@ -1,5 +1,5 @@
 ---
-title: CV & Job Description
+title: CV
 permalink: /cv/
 ---
 
